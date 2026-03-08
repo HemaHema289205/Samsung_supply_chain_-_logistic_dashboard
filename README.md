@@ -19,5 +19,6 @@ This dashboard is built to:
 - Use Case: Ideal for supply chain managers, analysts, and logistics teams.
 screenshot / Demo
 screenshot: https://github.com/HemaHema289205/Samsung_supply_chain_-_logistic_dashboard/blob/main/Screenshot%202026-03-08%20171015.png
-demo
+
+demo:https://github.com/HemaHema289205/Samsung_supply_chain_-_logistic_dashboard/blob/main/SAMSUNG_report.pbit
 
