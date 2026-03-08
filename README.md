@@ -17,5 +17,7 @@ This dashboard is built to:
 - Data Visualization: Interactive charts, bar graphs, and progress indicators.
 - Dashboard Design: Clean, organized layout with intuitive navigation.
 - Use Case: Ideal for supply chain managers, analysts, and logistics teams.
-
+screenshot / Demo
+screenshot: https://github.com/HemaHema289205/Samsung_supply_chain_-_logistic_dashboard/blob/main/Screenshot%202026-03-08%20171015.png
+demo
 
